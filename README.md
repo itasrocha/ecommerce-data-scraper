@@ -27,7 +27,7 @@ A maneira mais fácil e recomendada de rodar o projeto é utilizando o Docker e 
 - [Docker](https://docs.docker.com/get-docker/) instalado
 - [Docker Compose](https://docs.docker.com/compose/install/) instalado
 
-### 🐳 Executando com Docker Compose
+### Executando com Docker Compose
 
 1. Clone o repositório:
 
